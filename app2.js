@@ -1,3 +1,5 @@
-if (b=b){
-    returnsara
+if (condiciones){
+    return sara;
+}else{
+    
 }
